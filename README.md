@@ -6,6 +6,7 @@
         border: 1px solid black;
         align-item: center;
         padding: 2px;
+        display: inline-block;
     }
 </style>
 
