@@ -1,4 +1,7 @@
 <style> 
+    *{
+        align-item: center;
+    }
     img{
         border: 1px solid black;
         align-item: center;
