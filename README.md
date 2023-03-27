@@ -1,16 +1,4 @@
 <style> 
-    *{
-        align-item: center;
-    }
-    img{
-        border: 1px solid black;
-        align: center;
-        padding: 2px;
-        display: inline-block;
-    }
-    p{
-        text-align: center;
-    }
     .container{
         height: 150px;
         width: 150px;
