@@ -93,8 +93,8 @@
 <br/>   
 
 
-<p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameeshakhan&show_icons=true&locale=en&layout=compact" alt="rameeshakhan" /></p>
+<div align="center"><p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameeshakhan&show_icons=true&locale=en&layout=compact" alt="rameeshakhan" /></p> </div>
 
 <br/> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameeshakhan&" alt="rameeshakhan" /></p>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameeshakhan&" alt="rameeshakhan" /></p> </div>
