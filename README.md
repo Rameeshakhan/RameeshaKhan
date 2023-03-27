@@ -4,7 +4,7 @@
     }
     img{
         border: 1px solid black;
-        align-item: center;
+        align: center;
         padding: 2px;
         display: inline-block;
     }
