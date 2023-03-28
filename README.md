@@ -8,13 +8,13 @@
 <br/>
   
 
-- 🌱 I’m currently learning Cloud Computing, Web 3.0, MERN, Nextjs  
+- 🌱 I’m currently learning Cloud Computing, Web 3.0.
   
 
-- ❓ Ask me and tell me about anything related to MERN stack and related technologies and Web 3.0  
+- ❓ Ask me and tell me about related technologies and Web 3.0.
   
 
-- ⚡ Fun fact: I am not funny  
+- ⚡ Fun fact: I am not funny.  
   
 
 <br/>  
