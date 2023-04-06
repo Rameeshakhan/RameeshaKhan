@@ -2,7 +2,7 @@
 <img src="./gif.gif" align="center" style="width: 100%" height="200"/>
 </div>  
 
-***
+*
 
 # *<ins><div align="center">I'm Rameesha, a full-stack developer 👨‍💻 who usually code in JavaScript 🐥</div></ins>*  
 
