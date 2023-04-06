@@ -88,13 +88,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rameeshakhan&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rameeshakhan&theme=algolia&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>   
 
 
-<div align="center"><p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameeshakhan&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="rameeshakhan" /></p> </div>
+<div align="center"><p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameeshakhan&theme=algolia&show_icons=true&locale=en&layout=compact" alt="rameeshakhan" /></p> </div>
 
 <br/> 
 
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameeshakhan&theme=midnight-purple" alt="rameeshakhan" /></p> </div>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameeshakhan&theme=algolia" alt="rameeshakhan" /></p> </div>
