@@ -9,13 +9,12 @@
 <br/>
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rameeshakhan" alt="Rameesha Khan"/> </p>
+
 - 🌱 I’m currently learning Cloud Computing, Web 3.0.
-  
 
 - ❓ Ask me and tell me about related technologies and Web 3.0.
   
-
-- ⚡ Fun fact: I am not funny.  
+- ⚡ Fun fact: I am not funny.   🌱 I’m currently learning Cloud Computing, Web 3.0.
   
 
 <br/>  
