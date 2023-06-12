@@ -96,7 +96,7 @@
 <br/>   
 
 
-<div align="center"><p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameeshakhan&theme=algolia&show_icons=true&locale=en&layout=compact" alt="Rameesha Khan" /></p> </div>
+<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameeshakhan&theme=algolia&line_height=40&hide=css"/></p> </div>
 
 <br/> 
 
