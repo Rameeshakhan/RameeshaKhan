@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning Cloud Computing, Web 3.0.
 
-- ❓ Ask me and tell me about related technologies and Web 3.0.
+- ❓ Ask me and tell me about MERN Stack and related technologies.
   
-- ⚡ Fun fact: I am not funny.   🌱 I’m currently learning Cloud Computing, Web 3.0.
+- ⚡ Fun fact: I am not funny.  
   
 
 <br/>  
@@ -91,7 +91,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rameeshakhan&theme=algolia&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rameeshakhan&theme=Algolia&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>   
 
