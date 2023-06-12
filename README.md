@@ -8,7 +8,7 @@
 
 <br/>
   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rameeshakhan" alt="Rameesha Khan"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rameeshakhan" alt="Rameesha Khan"/> </p>
 - 🌱 I’m currently learning Cloud Computing, Web 3.0.
   
 
