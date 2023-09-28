@@ -100,4 +100,4 @@
 
 <br/> 
 
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameeshakhan&" alt="rameeshakhan" /></p> </div>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameeshakhan&theme=algolia&" alt="rameeshakhan" /></p> </div>
