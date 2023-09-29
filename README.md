@@ -91,12 +91,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rameeshakhan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rameeshakhan&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" /></div>  
 
 <br/>   
 
 
-<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameeshakhan&line_height=40&hide=css"/></p> </div>
+<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameeshakhan&line_height=40&hide=css&theme=algolia"/></p> </div>
 
 <br/> 
 
