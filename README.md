@@ -10,7 +10,7 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rameeshakhan" alt="Rameesha Khan"/> </p>
 
-- 🌱 I’m currently learning Cloud Computing, Web 3.0.
+- 🌱 I’m currently learning DevOps.
 
 - ❓ Ask me and tell me about MERN Stack and related technologies.
   
