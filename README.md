@@ -81,7 +81,7 @@
 
 ### DevOps  
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="80" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="./Images/aws-logo.png" alt="AWS" height="80" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="80" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="80" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" /></a>  
