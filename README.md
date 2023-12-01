@@ -87,6 +87,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="80" /></a>  
+<a href="https://bitbucket.org/" target="_blank"><img style="margin: 25px" src="/Images/bitbucket-logo.png" alt="Azure" height="80" /></a>  
 </div>
 </td></tr></table>  
 
